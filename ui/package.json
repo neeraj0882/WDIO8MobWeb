@@ -4,10 +4,10 @@
   "description": "WebdriverIO with TypeScript, BDD framework to test Web ,Mobile and APIs",
   "type": "module",
   "scripts": {
-    "exp": "wdio wdio.conf.androidPerf.js",
     "test": "wdio wdio.test.conf.ts",
     "android": "wdio wdio.conf.android.ts",
-    "ios": "wdio wdio.conf.ios.ts"
+    "ios": "wdio wdio.conf.ios.ts",
+    "perfecto": "wdio wdio.conf.perfecto.js"
   },
   "license": "ISC",
   "devDependencies": {
