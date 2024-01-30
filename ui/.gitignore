@@ -1,0 +1,10 @@
+node_modules/
+reports/
+allure-report
+allure-results
+screenshot.png
+.env
+.tool-versions
+package-lock.json
+apps
+.DS_Store
